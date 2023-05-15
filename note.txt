@@ -1,0 +1,22 @@
+div - grouping untuk styling
+margin - jarak luar
+padding - jarak dalam
+margin/padding punya 4 value, yaitu atas, kanan, bawah, kiri
+
+margin : 10px, 20px, 30px,  40px
+padding : 10px, 20px, 30px,  40px
+
+https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+
+<--- Github Versioning Control Rules --->
+<--- Newly ise Repository --->
+- git init
+- git add .
+- git commit -m "ur massage"
+- git remote add remote_name link
+- git pust remote_name branch_name
+
+<-- Editing Repository -->
+- git add .
+- git commit -m "ur message"
+- git push remote_name branch_name
