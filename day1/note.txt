@@ -1,0 +1,12 @@
+div - grouping untuk styling
+margin - jarak luar
+padding - jarak dalam
+margin/padding punya 4 value, yaitu atas, kanan, bawah, kiri
+
+margin : 10px, 20px, 30px,  40px
+padding : 10px, 20px, 30px,  40px
+
+https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+
+<--- Github Versioning Control Rules --->
+1. git init
